@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gwitter/static/css/main.03459831.css",
+    "main.js": "/gwitter/static/js/main.6500b1c2.js",
+    "index.html": "/gwitter/index.html",
+    "main.03459831.css.map": "/gwitter/static/css/main.03459831.css.map",
+    "main.6500b1c2.js.map": "/gwitter/static/js/main.6500b1c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03459831.css",
+    "static/js/main.6500b1c2.js"
+  ]
+}
